@@ -34,5 +34,7 @@ So if the initial coordinates and direction are : (1,2) N and the next input is 
 
 Some potential sample input to a unit test might be : (1,2) N MMMMMMMMRMMMMRMLM
 *NOTE*
+
 -The Caver will die if they fall of the edge of the cave.
+
 -The Caver’s partner at the surface knows where the exit is and will navigate the lost Caver to those coordinates.
