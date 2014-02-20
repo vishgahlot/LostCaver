@@ -4,7 +4,6 @@
 * Lost Caver main.c
 * This program reads in a text file(input.txt) with the directions 
 * for the caver to get out of the cave.
-* File format: (0,0) E MMMMMMMMMMMMMMMMMMMM
 */
 
 #include<stdio.h>
